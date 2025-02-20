@@ -21,9 +21,9 @@ This repository contains our project on analyzing the relationship between econo
 ---
 
 ## *Group Members*  
-👤 *Ranudi Perera*
-👤 *Heashalla Sundaresan*
-👤 *Imara Riyal*
-👤 *Kusalya Kaluthotage*
-👤 *Aaron Bandara*
+👤 **Ranudi Perera**  
+👤 **Heashalla Sundaresan**  
+👤 **Imara Riyal**  
+👤 **Kusalya Kaluthotage**  
+👤 **Aaron Bandara**  
 ---
