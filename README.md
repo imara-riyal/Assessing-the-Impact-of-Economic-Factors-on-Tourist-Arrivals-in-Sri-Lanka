@@ -24,7 +24,7 @@ This repository contains our project on analyzing the relationship between econo
 👤 *Ranudi Perera*  
 👤 *Heashalla Sundaresan*  
 👤 *Imara Riyal* 
-👤 *Kusalya Kaluthotage  
+👤 *Kusalya Kaluthotage*  
 👤 *Aaron Bandara*
 
 ---
